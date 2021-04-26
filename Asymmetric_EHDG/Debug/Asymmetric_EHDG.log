@@ -1,0 +1,7 @@
+﻿  Asymmetric_EHDG.cpp
+C:\Users\薛怡\source\repos\Asymmetric_EHDG\Asymmetric_EHDG.cpp(74,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\薛怡\source\repos\Asymmetric_EHDG\Asymmetric_EHDG.cpp(75,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\薛怡\source\repos\Asymmetric_EHDG\Asymmetric_EHDG.cpp(96,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\薛怡\source\repos\Asymmetric_EHDG\Asymmetric_EHDG.cpp(236,9): warning C4101: “result”: 未引用的局部变量
+C:\Users\薛怡\source\repos\Asymmetric_EHDG\Asymmetric_EHDG.cpp(253,9): warning C4101: “result”: 未引用的局部变量
+  Asymmetric_EHDG.vcxproj -> C:\Users\薛怡\source\repos\Asymmetric_EHDG\Debug\Asymmetric_EHDG.exe
