@@ -1,0 +1,7 @@
+﻿  Traditional_Repeated_HDG.cpp
+C:\Users\薛怡\source\repos\Traditional_Repeated_HDG\Traditional_Repeated_HDG.cpp(73,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\薛怡\source\repos\Traditional_Repeated_HDG\Traditional_Repeated_HDG.cpp(74,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\薛怡\source\repos\Traditional_Repeated_HDG\Traditional_Repeated_HDG.cpp(84,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\薛怡\source\repos\Traditional_Repeated_HDG\Traditional_Repeated_HDG.cpp(189,9): warning C4101: “result”: 未引用的局部变量
+C:\Users\薛怡\source\repos\Traditional_Repeated_HDG\Traditional_Repeated_HDG.cpp(206,9): warning C4101: “result”: 未引用的局部变量
+  Traditional_Repeated_HDG.vcxproj -> C:\Users\薛怡\source\repos\Traditional_Repeated_HDG\Debug\Traditional_Repeated_HDG.exe
