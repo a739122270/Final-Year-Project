@@ -1,0 +1,6 @@
+﻿  Asymmetric_IHDG_All.cpp
+C:\Users\薛怡\source\repos\Asymmetric_IHDG_All\Asymmetric_IHDG_All.cpp(118,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\薛怡\source\repos\Asymmetric_IHDG_All\Asymmetric_IHDG_All.cpp(149,36): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\薛怡\source\repos\Asymmetric_IHDG_All\Asymmetric_IHDG_All.cpp(140,6): warning C4101: “value”: 未引用的局部变量
+C:\Users\薛怡\source\repos\Asymmetric_IHDG_All\Asymmetric_IHDG_All.cpp(128,12): warning C4101: “n”: 未引用的局部变量
+  Asymmetric_IHDG_All.vcxproj -> C:\Users\薛怡\source\repos\Asymmetric_IHDG_All\Debug\Asymmetric_IHDG_All.exe
