@@ -1,0 +1,7 @@
+﻿D:\CS\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(MultipleStrategy.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MultipleStrategy.cpp
+C:\Users\薛怡\source\repos\MultipleStrategy\MultipleStrategy.cpp(117,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\薛怡\source\repos\MultipleStrategy\MultipleStrategy.cpp(144,36): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\薛怡\source\repos\MultipleStrategy\MultipleStrategy.cpp(139,6): warning C4101: “value”: 未引用的局部变量
+C:\Users\薛怡\source\repos\MultipleStrategy\MultipleStrategy.cpp(127,12): warning C4101: “n”: 未引用的局部变量
+  MultipleStrategy.vcxproj -> C:\Users\薛怡\source\repos\MultipleStrategy\Debug\SIHDG.exe
