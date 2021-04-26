@@ -1,0 +1,3 @@
+﻿  SIHDG_Compare.cpp
+C:\Users\薛怡\source\repos\SIHDG_Compare\SIHDG_Compare.cpp(115,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SIHDG_Compare.vcxproj -> C:\Users\薛怡\source\repos\SIHDG_Compare\Debug\SIHDG_Compare.exe

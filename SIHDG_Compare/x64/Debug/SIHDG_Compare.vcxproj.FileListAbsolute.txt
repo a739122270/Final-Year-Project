@@ -1,0 +1,2 @@
+C:\Users\薛怡\source\repos\SIHDG_Compare\x64\Debug\SIHDG_Compare.exe
+C:\Users\薛怡\source\repos\SIHDG_Compare\x64\Debug\SIHDG_Compare.pdb
